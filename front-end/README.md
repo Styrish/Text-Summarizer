@@ -1,3 +1,25 @@
+# Front-end — Text Summarizer
+
+React + Vite front-end for Text Summarizer.
+
+Prerequisites
+- Node.js 14+ and npm
+
+Install
+- `cd front-end`
+- `npm install`
+
+Development
+- `npm run dev` — starts the Vite dev server (hot reload)
+
+Build
+- `npm run build` — produces `dist/`
+
+Configuration
+- Vite environment variables should use the `VITE_` prefix (for example `VITE_API_URL`).
+
+Notes
+- Source code lives in `front-end/src/`.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
